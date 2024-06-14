@@ -177,15 +177,21 @@ h1 {
 
 .citazione {
     font-size: 1.2em;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 .firma {
     font-size: 1em;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 .ceo {
     font-size: 0.7em;
     display: block;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 
