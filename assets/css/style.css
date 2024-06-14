@@ -153,18 +153,26 @@ h1 {
 
 blockquote {
     font-size: 1.1em;
+    font-style: oblique;
 }
 
 .citazione {
     font-size: 1em;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 .firma {
     font-size: 1.3em;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 .ceo {
     font-size: 0.8em;
+    display: block;
+    font-style: italic;
+    font-family: 'Arial', sans-serif;
 }
 
 
