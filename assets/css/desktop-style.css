@@ -93,7 +93,7 @@ h1 {
 }
 
 .first-card p {
-    font-size: 1.1em;
+    font-size: 1em;
     width: 65%;
     margin:0 auto;
     margin-bottom: 50px;
@@ -170,26 +170,26 @@ h1 {
 }
 
 .third-card h3 {
-    font-size: 1.8em;
+    font-size: 1.5em;
     font-weight: 700;
     margin-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
 }
 
 .citazione {
-    font-size: 1.2em;
+    font-size: 1.1em;
     font-style: italic;
     font-family: 'Arial', sans-serif;
 }
 
 .firma {
-    font-size: 1em;
+    font-size: 0.9em;
     font-style: italic;
     font-family: 'Arial', sans-serif;
 }
 
 .ceo {
-    font-size: 0.7em;
+    font-size: 0.6em;
     display: block;
     font-style: italic;
     font-family: 'Arial', sans-serif;
